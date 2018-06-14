@@ -35,6 +35,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'RoundAddButton', :git => 'https://github.com/baquer/RoundAddButton.git'
+
 ```
 change the development target to 'iOS 10' in podfile.
 
