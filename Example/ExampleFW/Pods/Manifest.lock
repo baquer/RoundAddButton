@@ -1,0 +1,16 @@
+PODS:
+  - RoundAddButton (1.0.1)
+
+DEPENDENCIES:
+  - RoundAddButton (from `../RoundAddButton`)
+
+EXTERNAL SOURCES:
+  RoundAddButton:
+    :path: "../RoundAddButton"
+
+SPEC CHECKSUMS:
+  RoundAddButton: 705e4712f331309803aa0e27421179c04aacc878
+
+PODFILE CHECKSUM: a5b49f92ebf75966a78d4b41017712dc7434a194
+
+COCOAPODS: 1.5.3

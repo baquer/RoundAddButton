@@ -1,0 +1,19 @@
+{
+  "name": "RoundAddButton",
+  "version": "1.0.1",
+  "summary": "Use Round Add Button into your project having different colors",
+  "homepage": "http://www.github.com/baquer/RoundAddButton",
+  "license": "MIT",
+  "authors": "baquer",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/baquer/RoundAddButton.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "RoundAddButton",
+    "RoundAddButton/**/*.{h,m,swift}"
+  ]
+}
