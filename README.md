@@ -34,7 +34,7 @@ RoundAddButton is available through [CocoaPods](http://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'RoundAddButton'
+pod 'RoundAddButton', :git => 'https://github.com/baquer/RoundAddButton.git'
 ```
 change the development target to 'iOS 10' in podfile.
 
